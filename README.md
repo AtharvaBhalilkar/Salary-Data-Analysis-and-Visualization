@@ -2,7 +2,7 @@
 This project analyzes salary datasets to explore trends, disparities, and predictions. It combines data extraction, transformation, loading, and visualization, showcasing data pipelines and orchestration using Python and tools like PostgreSQL, MongoDB, Pandas, and Dagster.
 
 ## Description
-The project aims to process and analyze multiple datasets related to public and private salaries, including:
+The project aims to process and analyze multiple datasets related to data science/ data analytics/ data engineering salaries across the word
 
 ## CSV-based salary datasets
 * JSON-based salary data
