@@ -6,7 +6,8 @@ The project aims to process and analyze multiple datasets related to public and 
 
 ## CSV-based salary datasets
 * JSON-based salary data
-* CSV salary data 
+* CSV salary data
+
 Key Features:
 Extract data from different sources (CSV/JSON).
 Load data into PostgreSQL and MongoDB databases.
