@@ -5,8 +5,9 @@ This project analyzes salary datasets to explore trends, disparities, and predic
 The project aims to process and analyze multiple datasets related to public and private salaries, including:
 
 ## CSV-based salary datasets
-JSON-based salary data (e.g., Glassdoor salary data)
-* Key Features:
+* JSON-based salary data
+* CSV salary data 
+Key Features:
 Extract data from different sources (CSV/JSON).
 Load data into PostgreSQL and MongoDB databases.
 Build ETL pipelines for data processing.
